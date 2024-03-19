@@ -39,8 +39,8 @@ Performance is determined by the percentage of cleaned spots in the rooms. Each 
 
 ## CODE:
 ``` PYTHON
-# Developed By : Mukesh V
-# Reg No : 212222230086
+# Developed By : NAVEEN S
+# Reg No : 212222110030
 import random
 
 class VacuumCleaner:
